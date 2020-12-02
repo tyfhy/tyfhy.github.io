@@ -1,5 +1,5 @@
-# WARINGHU'S BLOG
+# TYF&HY
 
-自己胡乱记录一点东西的小站。
+for our love
 
-https://waringhu.com/
+https://www.tyfhy.cn/
