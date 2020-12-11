@@ -1,26 +1,33 @@
-//添加背景图片
-body { background:url(https://cdn.jsdelivr.net/gh/TUFZ/ImgHosting//TUFZ-Img/bg.png)}
-//改掉题头颜色
-.site-meta {
-    background: 
+// 网站主题背景
+body {
+    background: #E4D5D4
 }
-//主标题颜色
-.brand{
-    color: 
+.header {
+    background: #DB91A4
 }
-//副标题颜色
-.site-subtitle{
-    color: 
+.footer {
+    background: #DB91A4
 }
-//页脚统计文字颜色
-.footer{
-    color: #ffffff
+
+// 文章内链接文本样式
+.post-body p a{ 
+    color: #C17823; 
+    border-bottom: none; 
+    border-bottom: 1px solid #C17823; 
+    &:hover { 
+        color: #3652B1; 
+        border-bottom: none; 
+        border-bottom: 1px solid #3652B1; 
+    } 
 }
-//修改页脚备案链接颜色
-.footer a{
-    color: #ffffff
+// 修改选中字符的颜色
+/* webkit, opera, IE9 */
+::selection { 
+    background: #C17823;
+    color: #3652B1; 
 }
-//修改页脚统计人数的颜色
-.footer .with-love{
-    color: #ffffff
+/* firefox */
+::-moz-selection { 
+    background: #C17823;
+    color: #3652B1;    
 }
