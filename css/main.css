@@ -2670,7 +2670,7 @@ hr {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #daffff;
+  background: #fc95ff;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -2725,11 +2725,4 @@ body {
 ::-moz-selection {
   background: #c17823;
   color: #3652b1;
-}
-.post {
-  margin-top: 60px;
-  margin-bottom: 60px;
-  padding: 25px;
-  -webkit-box-shadow: 0 0 5px rgba(202,203,203,0.5);
-  -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
 }
