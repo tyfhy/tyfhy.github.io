@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: TYF&HY
-subtitle: ''
+title: 贝威小站
+subtitle: '✍📼▪💧'
 description: ''
 keywords:
 author: waringhu
@@ -41,7 +41,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:

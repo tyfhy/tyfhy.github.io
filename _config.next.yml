@@ -54,10 +54,10 @@ darkmode: false
 # ---------------------------------------------------------------
 
 favicon:
-  # small: images/inullbyte-16x16.png
-  # medium: images/inullbyte-32x32.png
-  # apple_touch_icon: images/inullbyte-apple-touch-icon.png
-  # safari_pinned_tab: images/inullbyte.svg
+  small: images/inullbyte-16x16.png
+  medium: images/inullbyte-32x32.png
+  apple_touch_icon: images/inullbyte-apple-touch-icon.png
+  safari_pinned_tab: images/inullbyte.svg
   #android_manifest: /manifest.json
 
 # Custom Logo (Warning: Do not support scheme Mist)
@@ -129,7 +129,7 @@ sidebar:
 # Sidebar Avatar
 avatar:
   # Replace the default image and set the url here.
-  url: images/avatar.gif
+  url: images/bbww.jpg
   # If true, the avatar will be dispalyed in circle.
   rounded: true
   # If true, the avatar will be rotated with the cursor.
